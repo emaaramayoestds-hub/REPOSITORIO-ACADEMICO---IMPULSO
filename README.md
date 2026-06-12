@@ -1,6 +1,6 @@
 # 🏫 Espacio Digital - Repositorio Académico Técnico
 
-¡Bienvenido/a al repositorio oficial de contenidos pedagógicos y tecnológicos! Este espacio está diseñado para que accedas de forma permanente, rápida y organizada a todo el material de estudio.
+NOS ALEGRA VERTE POR AQUÍ. ESTE REPOSITORIO FUE CREADO CON LA INTENCIÓN DE AYUDARTE CON TU CARRERA Y DARTE ESE "IMPULSO" QUE NECESITAS
 
 ---
 
