@@ -13,8 +13,8 @@ Hacé clic en cualquiera de las secciones para acceder directamente a las carpet
 ### 📚 Bibliografía por Áreas
 | Sección | Área Académica / Materia | Enlace de Acceso |
 | :---: | :--- | :---: |
-| 📐 | **Repositorio - Área Sistema de Representación** <br> *Apuntes, láminas, guías de dibujo técnico y geometría.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_DRIVE_SISTEMA_REPRESENTACION) |
-| 🧮 | **Repositorio - Área Matemática** <br> *Libros digitales, ejercicios prácticos y material teórico.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_DRIVE_MATEMATICA) |
+| 📐 | **Repositorio - Área Sistema de Representación** <br> *Apuntes, láminas, guías de dibujo técnico y geometría.* | [Ir a Carpeta ➡️](https://drive.google.com/drive/folders/1xaJvoa0iYJ9BKmHtmh2wdFW0Njf2d0-m?usp=drive_link) |
+| 🧮 | **Repositorio - Área Matemática** <br> *Libros digitales, ejercicios prácticos y material teórico.* | [Ir a Carpeta ➡️](https://drive.google.com/drive/folders/1YRG1oPFTxR5RsEKEJt5-ADc4gLgIarM_?usp=drive_link) |
 | ⚛️ | **Repositorio - Área Física** <br> *Manuales de estudio, guías de laboratorio y material científico.* | [Ir a Carpeta ➡️](https://drive.google.com/drive/folders/16HmP5S1sC_7kwZjt4rebSNBFqsBXa8ZR?usp=drive_link) |
 ### 🛠️ Soportes Tecnológicos
 | Sección | Descripción del Contenido | Enlace de Acceso |
