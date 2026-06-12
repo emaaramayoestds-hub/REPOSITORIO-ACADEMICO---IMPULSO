@@ -1,3 +1,6 @@
+![Fondo Animado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHcxMnN0ZHgxYXhrODlldHVkMzc5cnp2cXpmbG1wM3docnA2azV1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpTbwr5kHMOXFBWGSQ/giphy.gif)
+
+
 # Espacio Digital - Repositorio Académico
 
 NOS ALEGRA VERTE POR AQUÍ. ESTE REPOSITORIO FUE CREADO CON LA INTENCIÓN DE AYUDARTE CON TU CARRERA Y DARTE ESE "IMPULSO" QUE NECESITAS
