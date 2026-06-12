@@ -1,4 +1,4 @@
-# 🏫 Espacio Digital - Repositorio Académico Técnico
+# 🏫 Espacio Digital - Repositorio Académico
 
 NOS ALEGRA VERTE POR AQUÍ. ESTE REPOSITORIO FUE CREADO CON LA INTENCIÓN DE AYUDARTE CON TU CARRERA Y DARTE ESE "IMPULSO" QUE NECESITAS
 
@@ -16,7 +16,7 @@ Hacé clic en cualquiera de las secciones para acceder directamente a las carpet
 | 📐 | **Repositorio - Área Sistema de Representación** <br> *Apuntes, láminas, guías de dibujo técnico y geometría.* | [Ir a Carpeta ➡️](https://drive.google.com/drive/folders/1xaJvoa0iYJ9BKmHtmh2wdFW0Njf2d0-m?usp=drive_link) |
 | 🧮 | **Repositorio - Área Matemática** <br> *Libros digitales, ejercicios prácticos y material teórico.* | [Ir a Carpeta ➡️](https://drive.google.com/drive/folders/1YRG1oPFTxR5RsEKEJt5-ADc4gLgIarM_?usp=drive_link) |
 | ⚛️ | **Repositorio - Área Física** <br> *Manuales de estudio, guías de laboratorio y material científico.* | [Ir a Carpeta ➡️](https://drive.google.com/drive/folders/16HmP5S1sC_7kwZjt4rebSNBFqsBXa8ZR?usp=drive_link) |
-### 🛠️ Soportes Tecnológicos
+### 🛠️ Mateerial visual/audiovisual complementario
 | Sección | Descripción del Contenido | Enlace de Acceso |
 | :---: | :--- | :---: |
 | 🛠️ | **Recursos Técnicos** <br> *Manuales de herramientas, guías de software y plantillas.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_CARPETA_RECURSOS_TECNICOS) |
