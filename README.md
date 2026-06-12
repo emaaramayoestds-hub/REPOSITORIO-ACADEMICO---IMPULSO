@@ -29,4 +29,5 @@ Hacé clic en cualquiera de las secciones para acceder directamente a las carpet
 * **Consultas:** Si encontrás algún link caído o error en el material, informalo a tu profesor a cargo.
 
 *Espacio digital gestionado para el desarrollo técnico y pedagógico.*
-*Desarrolado por "IMPULSO".*
+
+*DesarrolLado por "IMPULSO".*
