@@ -10,7 +10,12 @@ Hacé clic en cualquiera de las secciones para acceder directamente a las carpet
 | Sección | Descripción del Contenido | Enlace de Acceso |
 | :---: | :--- | :---: |
 | 📋 | **Planificaciones y Programas** <br> *Diseños curriculares, acuerdos pedagógicos y cronogramas.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_CARPETA_01) |
-| 📚 | **Bibliografía Obligatoria** <br> *Libros digitales, apuntes de cátedra y lecturas por año.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_CARPETA_02) |
+### 📚 Bibliografía por Áreas
+| Sección | Área Académica / Materia | Enlace de Acceso |
+| :---: | :--- | :---: |
+| 📐 | **Repositorio - Área Sistema de Representación** <br> *Apuntes, láminas, guías de dibujo técnico y geometría.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_DRIVE_SISTEMA_REPRESENTACION) |
+| 🧮 | **Repositorio - Área Matemática** <br> *Libros digitales, ejercicios prácticos y material teórico.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_DRIVE_MATEMATICA) |
+| ⚛️ | **Repositorio - Área Física** <br> *Manuales de estudio, guías de laboratorio y material científico.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_DRIVE_FISICA) |
 | 🛠️ | **Recursos Técnicos** <br> *Manuales de herramientas, guías de software y plantillas.* | [Ir a Carpeta ➡️](AQUÍ_PEGA_EL_LINK_DE_TU_CARPETA_03) |
 
 ---
