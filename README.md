@@ -33,4 +33,4 @@ Hacé clic en cualquiera de las secciones para acceder directamente a las carpet
 
 *Espacio digital gestionado para el desarrollo técnico y pedagógico.*
 
-*DesarrolLado por "IMPULSO".*
+*Desarrollado por "IMPULSO".*
