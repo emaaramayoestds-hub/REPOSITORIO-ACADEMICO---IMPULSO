@@ -29,7 +29,7 @@ Hacé clic en cualquiera de las secciones para acceder directamente a las carpet
 ## **¿Cómo utilizar este espacio?**
 * **Acceso Directo:** No necesitás una cuenta de GitHub para navegar ni descargar los archivos.
 * **Permanencia:** Los links de arriba se mantienen actualizados automáticamente. Si se agrega nuevo material en el Drive, lo verás reflejado allí de inmediato.
-* **Consultas:** Si encontrás algún link caído o error en el material, informalo a tu profesor a cargo.
+* **Consultas:** Si encontrás algún link caído o error en el material, informalo al administrador de este repositorio a cargo.
 
 *Espacio digital gestionado para el desarrollo técnico y pedagógico.*
 
